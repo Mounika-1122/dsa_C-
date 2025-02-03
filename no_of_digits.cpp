@@ -10,3 +10,5 @@ int main(){
     cout<<count;
     return 0;
 }
+//sc:O(1)
+//tc:O(log (n))

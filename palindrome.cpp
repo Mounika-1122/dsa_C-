@@ -18,3 +18,5 @@ int main(){
     }
     return 0;
 }
+//tc:O(log n)
+//sc:O(1)

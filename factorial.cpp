@@ -13,3 +13,5 @@ int main(){
     cout<<"Factorial is: "<<fact<<endl;
     return 0;
 }
+//TC:O(a)
+//SC:O(1)

@@ -12,3 +12,6 @@ int main(){
 
     return 0;
 }
+
+//tc:O(1)
+//sc:O(1)

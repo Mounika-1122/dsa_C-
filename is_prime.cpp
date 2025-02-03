@@ -24,3 +24,5 @@ int main(){
 
     return 0;
 }
+//tc:O(n)
+//sc:O(1)

@@ -17,3 +17,5 @@ int main(){
          cout<<"False";
      }
 }
+//tc:O(log10 (n))
+//sc:O(1)
